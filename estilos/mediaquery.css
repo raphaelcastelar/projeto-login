@@ -10,7 +10,7 @@
 */
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-   
+   /*Config tablet*/
    body{    
     background-image: linear-gradient(to top, #49a09d, #5f2c82);
 
@@ -19,6 +19,7 @@
    
     section#login{
         width: 80vw;
+        height: 290px;
 
     }
 
@@ -52,6 +53,7 @@
 
     section#login{
         width: 75vw;
+        height: 350px;
 
     }
     section#login > div#formulario{
@@ -87,6 +89,7 @@
 
     section#login{
         width: 75vw;
+        height: 350px;
 
     }
     section#login > div#formulario{
